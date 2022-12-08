@@ -1,6 +1,6 @@
 AUTHOR = 'Sebastian Marin'
 SITENAME = 'Sebastian Marin'
-SITEURL = ''
+SITEURL = 'https://sebastianmarinc.github.io/smarin.github.io/'
 
 PATH = 'content'
 
